@@ -1,1 +1,1 @@
-web: gunicorn plotlypython.app:app
+web: gunicorn data-bootcamp-hw12-Plotly.app:app
