@@ -1,1 +1,0 @@
-FLASK_APP=belly-flask-app/app.py flask run
