@@ -1,1 +1,1 @@
-web: gunicorn belly-flask-app.run:app --log-file
+web: gunicorn belly-flask-app.run:app
