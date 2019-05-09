@@ -1,1 +1,1 @@
-web: gunicorn belly-flask-app.run:app
+web: gunicorn run:belly-flask-app
