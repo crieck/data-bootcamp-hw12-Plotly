@@ -1,1 +1,1 @@
-web: gunicorn data-bootcamp-hw12-Plotly.app:app
+web: gunicorn app:app
